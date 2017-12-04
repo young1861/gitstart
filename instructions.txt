@@ -4,6 +4,12 @@ chop avocados
 squeeze lime
 add salt
 mix well
+<<<<<<< HEAD
 totally messuup???!!!
+=======
+
+Ian was here!
+
+>>>>>>> b677ef5a0a7ad071bea9bafcd8374e905f87f675
 enjooooy it!
 
